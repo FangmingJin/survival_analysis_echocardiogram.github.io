@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "code"
-      href: about.html
+      href: code.html
 output:
   html_document:
     theme: cerulean

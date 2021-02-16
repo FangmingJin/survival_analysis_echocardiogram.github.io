@@ -1,0 +1,10 @@
+name: "Fangming_Jin_code_sample_sas"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "code"
+      href: about.html
+output:
+  html_document:
+    theme: cerulean
